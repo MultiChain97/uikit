@@ -1962,18 +1962,18 @@ var Icon$$ = function (props) {
 };
 
 var Icon$10 = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
+        React__default['default'].createElement("path", { d: "M28 25V10a1 1 0 00-1-1h-4a1 1 0 00-1 1v15h-2V6a1 1 0 00-1-1h-4a1 1 0 00-1 1v19h-2V15a1 1 0 00-1-1H7a1 1 0 00-1 1v10H4V5H2v21a1 1 0 001 1h27v-2zm-4-14h2v14h-2zm-8-4h2v18h-2zm-8 9h2v9H8z" })));
+};
+
+var Icon$11 = function (props) {
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 48 48" }, props),
         React__default['default'].createElement("path", { d: "M0 10H6V16H0z" }),
         React__default['default'].createElement("path", { d: "M0 19.917H6V25.917H0z" }),
         React__default['default'].createElement("path", { d: "M0 30.084H6V36.084H0z" }),
         React__default['default'].createElement("path", { d: "M10 10H48V16H10z" }),
         React__default['default'].createElement("path", { d: "M10 19.917H48V25.917H10z" }),
         React__default['default'].createElement("path", { d: "M10 30.084H48V36.084H10z" })));
-};
-
-var Icon$11 = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React__default['default'].createElement("path", { d: "M28 25V10a1 1 0 00-1-1h-4a1 1 0 00-1 1v15h-2V6a1 1 0 00-1-1h-4a1 1 0 00-1 1v19h-2V15a1 1 0 00-1-1H7a1 1 0 00-1 1v10H4V5H2v21a1 1 0 001 1h27v-2zm-4-14h2v14h-2zm-8-4h2v18h-2zm-8 9h2v9H8z" })));
 };
 
 var IconModule = /*#__PURE__*/Object.freeze({

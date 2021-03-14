@@ -2192,7 +2192,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/veganswap",
     },
 ];
 var MENU_HEIGHT = 64;

@@ -119,7 +119,7 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
+        label: "Chat",
         href: "https://t.me/vegandefi",
       },
       // {
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/veganfinanceann",
+        href: "https://t.me/veganswapann",
       },
       // {
       //   label: "Whale Alert",

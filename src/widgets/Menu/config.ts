@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "Chat",
-        href: "https://t.me/vegandefi",
+        href: "https://t.me/veganswap",
       },
       // {
       //   label: "Bahasa Indonesia",

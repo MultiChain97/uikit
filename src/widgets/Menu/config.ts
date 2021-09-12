@@ -95,7 +95,7 @@ export const links = [
     items: [
       // {
       //   label: "Voting",
-      //   href: "https://voting.pancakeswap.finance",
+      //   href: "https://voting.pancakeswap.financ",
       // },
       {
         label: "Github",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "Chat",
-        href: "https://t.me/multichainfin",
+        href: "https://t.me/Multichainfin",
       },
       // {
       //   label: "Bahasa Indonesia",

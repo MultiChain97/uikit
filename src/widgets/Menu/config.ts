@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/vegandefi/",
+        href: "https://github.com/multichain97/",
       },
       {
         label: "Docs",
-        href: "https://vegandefi.gitbook.io/vegan-finance/",
+        href: "/",
       },
       {
         label: "Blog",
-        href: "https://veganfinance.medium.com/",
+        href: "/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "Chat",
-        href: "https://t.me/veganswap",
+        href: "https://t.me/multichainfin",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/veganswapann",
+        href: "https://t.me/multichainfin",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/veganswap",
+    href: "https://twitter.com/multichainfin",
   },
 ];
 
